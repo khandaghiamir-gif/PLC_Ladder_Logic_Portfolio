@@ -14,7 +14,7 @@
 |---|---------|-------------|------------|
 | 01 | [Conveyor Start/Stop with Sensors](./Project_01_Conveyor/README.md) | Belt conveyor with jam detection, E-stop, and Auto/Manual mode | ⭐⭐ |
 | 02 | [Tank Level Control](./Project_02_Tank_Level/README.md) | Pump and valve control with level sensors and overflow protection | ⭐⭐⭐ |
-| 03 | [Motor Control with Fault & HMI](./Project_04_Motor_Control/README.md) | Three-phase motor DOL starter with overload, fault reset, and HMI | ⭐⭐⭐
+| 03 | [Motor Control with Fault](./Project_03_Motor_Control/README.md) | Three-phase motor DOL starter with overload, fault reset, and HMI | ⭐⭐⭐
 | 04 | [Pneumatic Pick](./Project_04_Pneumatic_Pick_and_Place/README.md) | Pneumatic Pick and Place Station with Step Sequencer | ⭐⭐⭐⭐⭐ 
 | 05 | [Pump Station with PID Pressure Control and VFD](./Project_05_Pump_Station_with_PID_Pressure_Control_and_VFD/README.md) | Pump Station with PID Pressure Control and VFD | ⭐⭐⭐⭐⭐ |
 
